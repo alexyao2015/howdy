@@ -47,7 +47,7 @@
 const auto DEFAULT_TIMEOUT =
     std::chrono::duration<int, std::chrono::milliseconds::period>(100);
 const auto MAX_RETRIES = 5;
-const auto PYTHON_EXECUTABLE = "python3";
+const auto PYTHON_EXECUTABLE = "/opt/pyenv/versions/3.12.5-howdy/bin/python3";
 
 #define S(msg) gettext(msg)
 

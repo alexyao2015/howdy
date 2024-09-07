@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/opt/pyenv/versions/3.12.5-howdy/bin/python3
 # Compare incoming video with known faces
 # Running in a local python instance to get around PATH issues
 
